@@ -1,0 +1,25 @@
+.Footer {
+  background: #333333;
+  text-align: center;
+  margin: 0;
+  min-width: 170px;
+  height: 70px;
+  border-top: 1px solid #333333;
+}
+
+.Footer p, h5 {
+  margin-bottom: 0;
+  font-family: osaka;
+  font-size: 13px;
+  color: white;
+}
+
+.Footer h5 {
+  letter-spacing: 0.5px;
+  margin: 10px 0 5px 0;
+}
+
+.Footer a {
+  color: #ff4103;
+  text-decoration: none;
+}

@@ -1,0 +1,21 @@
+.TodoList {
+  max-width: 1200px;
+  min-width: 800px;
+}
+
+.TodoList ul {
+  padding-left: 0;
+  margin: 15px 6% 0 3.5%;
+}
+
+.TodoList li {
+  margin: 0 0 8px 3%;
+  text-align: left;
+  list-style: none;
+  margin-bottom: 15px;
+}
+
+.TodoList .hr {
+  border-bottom: 1px solid #c5c5c5;
+}
+

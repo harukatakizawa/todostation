@@ -1,0 +1,29 @@
+.TodoForm {
+  min-width: 800px;
+  padding-top: 10px;
+} 
+
+.TodoForm form {
+  margin: 10px 30px 0 30px;
+  text-align: center;
+} 
+
+.TodoForm input {
+  width: 90%;
+  border: none;
+}
+
+.TodoForm input[type="text"]:focus {
+  outline: 0;
+}
+
+.TodoForm button {
+  color: rgb(255, 91, 15);
+  background-color: white;
+  border: none;
+}
+
+.TodoForm .hr {
+  margin: 0 auto 30px auto;
+  width: 88%;
+}
